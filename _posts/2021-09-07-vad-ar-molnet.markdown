@@ -41,9 +41,17 @@ Parametrar för servern: minst 2 CPUs, 8GB RAM och 10 GB disk.
 
 
 Hosting företag/molnservice | Plan | Pris per månad, US dollars
-Molnet Azure|Virtual machines, Instance B2ms|41 (1 year reserved)
-Google Cloud |e2-standard-2|63
-hosting företag Contabo | VPS S|6
-hosting företag  VPS2day |VPS Enterprise|40
+Molnet Azure|[Virtual machines, Instance B2ms](https://azure.microsoft.com/en-us/pricing/calculator/)|41 (1 year reserved)
+Google Cloud |[e2-standard-2](https://cloud.google.com/products/calculator/#id=5f94141e-d3cb-4bda-ad64-173a52b240d8)|63
+hosting företag Contabo | [VPS S](https://contabo.com/en/vps/vps-s-ssd/?image=ubuntu.267&qty=1&contract=1&storage-type=vps-s-200-gb-ssd)|6
+hosting företag  VPS2day |[VPS Enterprise](https://www.vps2day.com/pricing/)|40
+
+
+*Källor:*
+
+
+* [Molnbegrepp – principerna bakom molnbaserad databehandling](https://docs.microsoft.com/sv-se/learn/modules/fundamental-azure-concepts/)
+* [​Is the cloud really just someone else's computer?](https://www.techrepublic.com/article/is-the-cloud-really-just-someone-elses-computer/)
+* [What is the Cloud? Soft and Fluffy Edition](https://www.youtube.com/watch?v=BO6jvQ88ICQ)
 
 
