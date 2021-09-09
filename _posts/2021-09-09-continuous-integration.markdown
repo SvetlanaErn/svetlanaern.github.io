@@ -40,6 +40,9 @@ jobs:                        # denna pipeline består av ett jobb
 Pipelinen ser ut så här:
 
 
+![pipeline](https://github.com/SvetlanaErn/svetlanaern.github.io/blob/main/steps.jpeg)
+
+
 * Set up – container startar, laddar ner actions 
 * Run action/checkout@v2 – laddar ner branch med koden
 * Run action/setup-dotnet@v1 – installerar .Net SDK
