@@ -40,9 +40,6 @@ jobs:                        # denna pipeline består av ett jobb
 Pipelinen ser ut så här:
 
 
-![steps](https://user-images.githubusercontent.com/70198472/132754186-a67a5e5a-608a-4898-b1cb-4b992b316ecd.jpeg)
-
-
 * Set up – container startar, laddar ner actions 
 * Run action/checkout@v2 – laddar ner branch med koden
 * Run action/setup-dotnet@v1 – installerar .Net SDK
