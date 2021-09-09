@@ -12,7 +12,7 @@ Continuous integration (CI) är mjukvara utveckling praktik. I denna praktik lag
 Här kommer [koden](https://github.com/SvetlanaErn/spacepark-spacepark_-gruppx/blob/main/.github/workflows/basic.yaml) för pipeline:
 
 
-```
+```yaml
 name: build_and_test         # namn på pipeline
 on: [push]                   # händelse när pipeline aktiveras 
 jobs:                        # denna pipeline består av ett jobb
@@ -40,7 +40,7 @@ jobs:                        # denna pipeline består av ett jobb
 Pipelinen ser ut så här:
 
 
-![pipeline](https://github.com/SvetlanaErn/svetlanaern.github.io/blob/main/steps.jpeg)
+<img src="/steps.jpeg"/>
 
 
 * Set up – container startar, laddar ner actions 
