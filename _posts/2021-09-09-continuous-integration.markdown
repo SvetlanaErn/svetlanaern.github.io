@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continuous integration"
-date:   2021-09-08 20:04:59 +0200
+date:   2021-09-09 20:04:59 +0200
 author: SvetlanaErn
 ---
 Continuous integration (CI) är mjukvara utveckling praktik. I denna praktik lagras koden i repository och utvecklare mergar kod ofta till main grenen. Varje merge triggar automatiskt en serie av handlingar-kontroller (pipeline), t.ex. bygga kod, köra test etc. Om ett fel uppstår får utvecklingsteam ett meddelande. Denna praktik ökar produktivitet av utvecklare och tillsammans med continuous deployment (CD) automatiserar och förenklar utvecklingsprocessen och minskar tiden från kodändringen till releaser samt förebygger situation när koden som ligger i main inte kan byggas.
@@ -38,6 +38,11 @@ jobs:                        # denna pipeline består av ett jobb
 
 
 Pipelinen ser ut så här:
+
+
+![steps](https://user-images.githubusercontent.com/70198472/132754186-a67a5e5a-608a-4898-b1cb-4b992b316ecd.jpeg)
+
+
 * Set up – container startar, laddar ner actions 
 * Run action/checkout@v2 – laddar ner branch med koden
 * Run action/setup-dotnet@v1 – installerar .Net SDK
