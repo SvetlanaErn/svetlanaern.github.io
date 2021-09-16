@@ -52,6 +52,7 @@ public static async Task<IActionResult> Run(HttpRequest req, ILogger log)
 
 
 * [Understanding Serverless Computing for the Beginner](https://geekflare.com/know-about-serverless/)
+* [Execute an Azure Function with triggers](https://docs.microsoft.com/en-us/learn/modules/execute-azure-function-with-triggers/)
 
 
 
