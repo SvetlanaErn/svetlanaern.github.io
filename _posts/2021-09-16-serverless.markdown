@@ -45,6 +45,7 @@ public static async Task<IActionResult> Run(HttpRequest req, ILogger log)
 }
 
 ```
+<img src="/azureFunction.jpg"/>
 
 
 *Källor:*
