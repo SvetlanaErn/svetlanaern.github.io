@@ -24,7 +24,7 @@ API är gjord med Azure Functions. Databasen är SQL Server i Azure dvs serverle
 Applikationen var gjord i följande ordning:
 1. Skapa SQL DB i Azure.
 2. Bygga Azure Functions lokalt i VS. Koppla DB som ligger i molnet, köra migrations.
-3. Ladda koden till GitHub Repo.
+3. Ladda koden till [GitHub Repo](https://github.com/SvetlanaErn/AzureFunctionsAPISQL).
 4. Deploy koden från GitHub Repo till Azure Functions.
 
 ## Koden
