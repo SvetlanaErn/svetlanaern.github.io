@@ -163,7 +163,7 @@ Två scenarier:
 *Källor:*
 
 
-* []()
+* [Using Entity Framework with Azure Functions](https://dev.to/azure/using-entity-framework-with-azure-functions-50aa)
 
 
 
