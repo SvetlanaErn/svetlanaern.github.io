@@ -164,6 +164,7 @@ Två scenarier:
 
 
 * [Using Entity Framework with Azure Functions](https://dev.to/azure/using-entity-framework-with-azure-functions-50aa)
+* [Configure an App Service app in the Azure portal](https://docs.microsoft.com/en-us/azure/app-service/configure-common)
 
 
 
